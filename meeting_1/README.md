@@ -16,4 +16,4 @@ https://www.bmc.com/blogs/cloud-availability-regions-zones
 
 ## Link da gravação da chamada
 
-
+https://www.youtube.com/watch?v=3BeubPLlEos
